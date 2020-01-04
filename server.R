@@ -25,6 +25,7 @@ library(plotly)
 library(grid)
 library(markdown)
 library(ggExtra)
+library(DT)
 
 ########################################################################
 ### Configuracoes iniciais do R...
